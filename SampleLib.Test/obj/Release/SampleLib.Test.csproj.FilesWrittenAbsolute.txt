@@ -1,0 +1,4 @@
+/Users/ogauthier/projects/SampleLib/SampleLib.Test/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ogauthier/projects/SampleLib/SampleLib.Test/bin/Release/SampleLib.Test.dll
+/Users/ogauthier/projects/SampleLib/SampleLib.Test/obj/Release/SampleLib.Test.dll
+/Users/ogauthier/projects/SampleLib/SampleLib.Test/bin/Release/nunit.framework.dll

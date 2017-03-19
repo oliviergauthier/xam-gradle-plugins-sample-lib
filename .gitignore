@@ -1,0 +1,6 @@
+.gradle
+.droidres
+packages
+dist
+SampleLib/bin
+SampleLib/obj
